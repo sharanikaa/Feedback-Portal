@@ -44,25 +44,20 @@ Sharanika A
 
 - GitHub: https://github.com/sharanikaa
 
-## 📸 Project Screenshots
-
-### 🏠 Home Page
-
-![Home Page](./Screenshot/2026-05-07 144807.png)
+## 🏠 Home Page
+![Home Page](./screenshots/Screenshot 2026-05-07 144807.png)
 
 ---
 
-### 📝 Feedback Submission Form
+## 📝 Feedback Submission Form
+![Feedback Form](./screenshots/Screenshot 2026-05-07 144837.png)
 
-![Feedback Form](./Screenshot/2026-05-07 144837.png)
-
-![Feedback Form](./Screenshot/2026-05-07 144903.png)
+![Feedback Form](./screenshots/Screenshot 2026-05-07 144903.png)
 
 ---
 
-### ⚙️ Backend Workflow
-
-![Backend Workflow](./Screenshot/2026-05-07 145006.png)
+## ⚙️ Backend Workflow
+![Backend Workflow](./screenshots/Screenshot 2026-05-07 145006.png)
 
 ---
 
