@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# 🚀 Feedback Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An AI-powered full-stack feedback and evaluation platform designed to streamline the process of collecting, analyzing, and managing user feedback efficiently.
 
-## Available Scripts
+## 🌐 Live Demo
+https://feedback-portal-nu.vercel.app/
 
-In the project directory, you can run:
+## 📌 Project Overview
 
-### `npm start`
+The Feedback Portal enables users to submit feedback through an intuitive interface while providing administrators with a structured system to review and analyze responses. The project focuses on creating a scalable and user-friendly feedback management solution using modern web technologies.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Features
 
-### `npm test`
+- 📝 Submit feedback easily through interactive forms
+- ⭐ Rating and evaluation system
+- 📊 Organized feedback management
+- 📱 Responsive user interface
+- ⚡ Fast and optimized React frontend
+- 🔒 Clean and maintainable code structure
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Tools & Deployment
+- Git & GitHub
+- Vercel Deployment
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🎯 Future Enhancements
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Authentication system
+- Dashboard analytics
+- Database integration
+- AI-based sentiment analysis
+- Admin moderation panel
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 👩‍💻 Developed By
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Sharanika A
 
-## Learn More
+- GitHub: https://github.com/sharanikaa
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📄 License
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is developed for educational and assessment purposes.
