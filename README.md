@@ -44,24 +44,25 @@ Sharanika A
 
 - GitHub: https://github.com/sharanikaa
 
-## 🏠 Home Page
+## 📸 Project Screenshots
 
-![Home Page](./home-page.png)
+### 🏠 Home Page
 
----
-
-## 📝 Feedback Submission Form
-
-![Response 1](./response1.png)
-
-![Response 2](./response2.png)
+![Home Page](./screenshots/home-page.png)
 
 ---
 
-## ⚙️ Backend Workflow
+### 📝 Feedback Submission Form
 
-![Backend](./backend.png)
+![Response 1](./screenshots/response1.png)
 
+![Response 2](./screenshots/response2.png)
+
+---
+
+### ⚙️ Backend Workflow
+
+![Backend](./screenshots/backend.png)
 ---
 
 ## 📄 License
