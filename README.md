@@ -9,8 +9,6 @@ https://feedback-portal-nu.vercel.app/
 
 The Feedback Portal enables users to submit feedback through an intuitive interface while providing administrators with a structured system to review and analyze responses. The project focuses on creating a scalable and user-friendly feedback management solution using modern web technologies.
 
----
-
 ## ✨ Features
 
 - 📝 Submit feedback easily through interactive forms
@@ -19,8 +17,6 @@ The Feedback Portal enables users to submit feedback through an intuitive interf
 - 📱 Responsive user interface
 - ⚡ Fast and optimized React frontend
 - 🔒 Clean and maintainable code structure
-
----
 
 ## 🛠️ Tech Stack
 
@@ -34,8 +30,6 @@ The Feedback Portal enables users to submit feedback through an intuitive interf
 - Git & GitHub
 - Vercel Deployment
 
----
-
 ## 🎯 Future Enhancements
 
 - Authentication system
@@ -44,15 +38,11 @@ The Feedback Portal enables users to submit feedback through an intuitive interf
 - AI-based sentiment analysis
 - Admin moderation panel
 
----
-
 ## 👩‍💻 Developed By
 
 Sharanika A
 
 - GitHub: https://github.com/sharanikaa
-
----
 
 ## 📄 License
 
